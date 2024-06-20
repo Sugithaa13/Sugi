@@ -1,0 +1,89 @@
+body{
+    align-items: left;
+    justify-content: left;
+    display: flex;
+    height: 70vh;
+    margin: 2%;
+    background-image: url(Fondo\ de\ pantalla.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+.max{
+    background-color: rgb(225, 255, 90);
+    height: 290px;
+    width: 250px;
+    border: 10px solid black;
+    padding: 5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    border-radius: 10px;
+
+}
+.my{
+    display: flex;
+    margin-top: 10px;
+    font-size: larger;
+    
+}
+.hi{
+    display: flex;
+    margin-top: -20px;
+}
+.hello{
+    padding: 1vh;
+    border-radius: 10px;
+    border-color: white;
+}
+.hey{
+    padding: 1vh;
+    border-radius: 10px;
+    border-color: white;
+}
+.line{
+    margin-top: -3vh;
+    
+}
+table,td,th{
+    border: 60px solid rgb(231, 255, 109);
+    border-collapse: collapse;
+
+}
+th{
+    background-color: rgb(163, 202, 33);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+td{
+    background-color: rgb(247, 255, 17);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    height: 10%;
+    width: 25%;
+}
+.main{
+    margin-left: 60vh;
+    margin-top: -35vh;
+}
+.mom{
+    margin-left: 120vh;
+    margin-top: -32vh;
+}
+
+.icon{
+    background-color: rgb(232, 255, 80);
+    overflow: auto;
+    border: 2px solid #000000; 
+    padding: 45px;
+}
+.icon a{
+    float: right;
+    font-size: 30px;
+    color: rgb(27, 43, 27);
+    padding: -60px;
+    height: 35px;
+}
+.icon a:hover{
+    background-color: rgb(245, 246, 235);
+
+}

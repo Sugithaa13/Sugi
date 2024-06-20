@@ -1,0 +1,23 @@
+body{
+    margin: 10;
+}
+.icon{
+    height: 80%;
+    width: 10%;
+    background-color: rgb(0, 0, 0);
+    overflow: auto;
+    border: 2px solid rgb(251, 255, 0); 
+    padding: 20px;
+}
+.icon a{
+    float: left;
+    font-size: 30px;
+    color: beige;
+    padding: 20px;
+    height: 40px;
+    text-align: center;
+}
+.icon a:hover{
+    background-color: rgb(197, 201, 201);
+
+}

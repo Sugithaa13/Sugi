@@ -1,0 +1,85 @@
+body{
+    align-items: right;
+    justify-content: center;
+    display: flex;
+    height: 80vh;
+    padding: 120px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.Bairav{
+    background-color: rgba(255, 255, 255, 0.934);
+    height: 290px;
+    width: 300px;
+    border: 10px solid rgb(231, 227, 227);
+    padding: 5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-left: 10vh;
+    text-align: center;
+    margin-top: 10vh;
+    border-radius: 10px;
+    border: none;
+
+}
+.hi{
+    padding: 2vh;
+    font-size: larger;
+    width: 270px;
+    border-radius: 10px;
+    border-color: white;
+
+}
+.hey{
+    padding: 2vh;
+    font-size: larger;
+    width: 270px;
+    border-radius: 10px;
+    border-color: white;
+    
+}
+.bye{
+    padding: 2vh;
+    font-size: larger;
+    justify-content: center;
+    background-color: blue;
+    color: white;
+    width: 303px;
+    border-radius: 10px;
+    border:none
+}
+.hoi{
+    padding: 2vh;
+    font-size: 15px;
+    justify-content: center;
+    width: 270px;
+
+
+}
+.hii{
+    padding: 2vh;
+    font-size: 15px;
+    justify-content: center;
+    background-color: rgb(123, 255, 0);
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    
+
+
+
+}
+.sugi{
+    color: blue;
+    font-size: 30px;
+    margin-top: 10vh;
+    margin-left: 30px;
+
+}
+.sanmi{
+    font-size: 40px;
+    text-align: left;
+    margin-left:  -32vh;
+    margin-top: 25vh;
+    
+}

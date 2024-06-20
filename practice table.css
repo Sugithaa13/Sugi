@@ -1,0 +1,19 @@
+table,td,th{
+    border: 30px solid yellow;
+    border-collapse: collapse;
+
+}
+th{
+    background-color: rgb(177, 119, 217);
+}
+td{
+    background-color: rgb(177, 119, 217);
+}
+table{
+    height: 30px;
+    width: 30px;
+}
+.my{
+    margin-left: 30vh;
+    margin-top: 40vh;
+}

@@ -1,0 +1,48 @@
+.figma{
+    margin: 3vh;
+    padding: 3vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.hi{
+    width: 315px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: grey;
+
+}
+.hlo{
+    width: 315px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: grey;
+}
+.sanmi{
+    margin-top: -2vh;
+    margin-left: 9px;
+}
+.sugi{
+    margin-left: 25vh;
+    margin-top: -3.2vh;
+}
+.wow{
+    margin-top: 3vh;
+    margin-left: 15vh;
+    border-radius: 10px;
+}
+.super{
+    border-radius: 10px;
+    margin-left: 9vh;
+}
+.but{
+    height: 2vh;
+    width: 2vh;
+    border-color: grey;
+}
+.col2{
+    background-image: url(Right\ Side.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,28 @@
+table,td,th{
+    border: 60px solid yellow;
+    border-collapse: collapse;
+
+}
+th{
+    background-color: rgb(29, 196, 37);
+}
+td{
+    background-color: rgb(29, 196, 37);
+}
+table{
+    height: 50%;
+    width: 25%;
+}
+.main{
+    margin-right: 30vh;
+    margin-top: 50vh;
+}
+.hi{
+    margin-left: 80vh;
+    margin-top: -35vh;
+}
+
+.hello{
+    margin-left:150vh;
+    margin-top:-43vh;
+}

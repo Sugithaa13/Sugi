@@ -1,0 +1,18 @@
+.col1{
+    background-image: url(download.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.col2{
+    height: 100vh;
+    align-items: center;
+    background-color: lightblue;
+}
+.form{
+    margin-top: 25vh;
+    margin-left: 30vh;
+    
+}
+.hi{
+    margin-top: 50px;
+}

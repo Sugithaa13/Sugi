@@ -1,0 +1,13 @@
+body{
+    margin: 2%;
+    background-image: url(Sanrio\ cinnamoroll\ wallpaper\ 1920x1080\ laptop\ desktop\ wpp\ Kawaii.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    width: 20%;
+    height: 50%;
+}
+.hii{
+    margin-left: 115vh;
+    margin-top: -180vh;
+}
